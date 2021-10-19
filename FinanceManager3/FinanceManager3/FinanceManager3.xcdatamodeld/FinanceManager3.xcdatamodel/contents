@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="15702" systemVersion="19C57" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Incom" representedClassName="Incom" syncable="YES" codeGenerationType="class">
+        <attribute name="name" attributeType="String"/>
+    </entity>
+    <entity name="Incom1" representedClassName="Incom1" syncable="YES" codeGenerationType="class">
+        <attribute name="name1" attributeType="String"/>
+    </entity>
+    <entity name="Order" representedClassName="Order" syncable="YES" codeGenerationType="class">
+        <attribute name="product" attributeType="String"/>
+    </entity>
+    <entity name="Order1" representedClassName="Order1" syncable="YES" codeGenerationType="class">
+        <attribute name="product1" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="Incom" positionX="-63" positionY="-18" width="128" height="58"/>
+        <element name="Incom1" positionX="-93.3828125" positionY="207.2890625" width="128" height="58"/>
+        <element name="Order" positionX="112.26953125" positionY="45.65234375" width="128" height="58"/>
+        <element name="Order1" positionX="110.890625" positionY="235.26953125" width="128" height="58"/>
+    </elements>
+</model>
